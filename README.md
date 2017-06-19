@@ -50,3 +50,7 @@ General options:
 ```
 
 [More help](https://github.com/shadowsocks/shadowsocks/wiki)
+
+Usage Param：
+    smounives/shadowsocks:latest
+    -p 40006 -k swqslwl8228 -m aes-256-cfb
